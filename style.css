@@ -544,8 +544,8 @@ body {
     }
 }
 
-/*  info section */
-.info-section {
+/*  contact section */
+.contact-sectionss {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -583,14 +583,14 @@ body {
   }
   
   .info-section a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bolder;
     text-shadow: black 2px 2px;
   }
   
   .info-section a:hover {
-    color: lightskyblue;
+    color: rgb(80, 172, 233);
     text-decoration: none;
     font-weight: bolder;
     text-shadow: black 2px 2px;
