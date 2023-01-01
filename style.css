@@ -468,7 +468,7 @@ body {
 
 @media (max-width: 860px) {
     .rightBarStuff {
-        display: none;
+        
     }
     .menuHamburger {
         display: flex;
